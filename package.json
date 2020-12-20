@@ -1,0 +1,31 @@
+{
+  "name": "line-works-zoom-sample01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shotamaco/line-works-zoom-sample01.git"
+  },
+  "author": "shotamaco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shotamaco/line-works-zoom-sample01/issues"
+  },
+  "homepage": "https://github.com/shotamaco/line-works-zoom-sample01#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "promise": "^8.1.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
